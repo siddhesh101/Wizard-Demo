@@ -21,6 +21,7 @@
       "pageNo": "Tercera página",
       "emailLabel": "Dirección de correo electrónico:",
       "emailPH": "Ingrese correo electrónico",
+      "emailDesc": "Nunca compartiremos su correo electrónico con nadie más.",
       "nameLabel": "Tu nombre:",
       "namePH": "Ingrese correo",
       "foodLabel": "Comida:",
