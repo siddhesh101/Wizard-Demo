@@ -1,4 +1,5 @@
 <template>
+    <!--Hello-->
     <div>
         <h1>{{$t('pages.TP.pageNo')}}</h1>
         <b-form @submit="onSubmit" @reset="onReset" v-if="show">
@@ -11,7 +12,7 @@
                               type="email"
                               required
                               :placeholder="$t('pages.TP.emailPH')"></b-form-input>
-            </b-form-group>
+            </b-form-group><>
 
             <b-form-group id="input-group-2" :label="$t('pages.TP.nameLabel')" label-for="input-2">
                 <b-form-input id="input-2"
