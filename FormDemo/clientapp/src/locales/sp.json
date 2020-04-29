@@ -1,0 +1,34 @@
+{
+  "pages": {
+    "FP": {
+      "pageNo": "Primera página",
+      "title": "Solicite sus registros de salud.",
+      "subTitle": "Esto solo tomará unos minutos, tenga lista su identificación con foto.",
+      "note": "Nota: Utilice una versión reciente de Chrome, Firefox o Safari.",
+      "btStart": "¡OK vamos!"
+
+    },
+    "SP": {
+      "pageNo": "Segunda pagina",
+      "title": "Genial, ¿qué ubicación quieres solicitar primero?",
+      "oHospital": "Hospital OrthoNebraska",
+      "oClinic": "Clínica OrthoNebraska",
+      "oRheumatology": "OrthoNebraska Rheumatology",
+      "btBack": "atrás"
+
+    },
+    "TP": {
+      "pageNo": "Tercera página",
+      "emailLabel": "Dirección de correo electrónico:",
+      "emailPH": "Ingrese correo electrónico",
+      "nameLabel": "Tu nombre:",
+      "namePH": "Ingrese correo",
+      "foodLabel": "Comida:",
+      "cbMe": "Me echa un vistazo",
+      "cbThat": "Mira esto",
+      "btSubmit": "Enviar",
+      "btReset": "Reiniciar",
+      "btBack": "atrás"
+    }
+  }
+}
