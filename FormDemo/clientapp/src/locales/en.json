@@ -27,6 +27,19 @@
       "foodLabel": "Food:",
       "cbMe": "Check me out",
       "cbThat": "Check that",
+      "btNext": "Next",
+      "btBack": "Back"
+    },
+    "FOP": {
+      "pageNo": "Fourth Page",
+      "companyLabel": "Company name:",
+      "companyPH": "Enter company",
+      "companyDesc": "We'll never share your company with anyone else.",
+      "addLabel": "Your address:",
+      "addPH": "Enter addresse",
+      "salaryLabel": "Salary:",
+      "cbMe": "Check me out",
+      "cbThat": "Check that",
       "btSubmit": "Submit",
       "btReset": "Reset",
       "btBack": "Back"

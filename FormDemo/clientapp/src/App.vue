@@ -10,6 +10,7 @@
     import FirstPage from './components/FirstPage.vue'
     import SecondPage from './components/SecondPage.vue'
     import ThirdPage from './components/ThirdPage.vue'
+    import FourthPage from './components/FourthPage.vue'
 
 export default {
         name: 'app',
@@ -24,7 +25,7 @@ export default {
             }
         },
   components: {
-      FirstPage, SecondPage, ThirdPage
+      FirstPage, SecondPage, ThirdPage, FourthPage
   }
 }
 </script>

@@ -29,7 +29,7 @@
         }, 
         methods: {
             nextPage() {
-                this.$store.state.selectedComponent = "SecondPage"
+                this.$store.state.selectedComponent = "SecondPage";
             }
         }
     }
